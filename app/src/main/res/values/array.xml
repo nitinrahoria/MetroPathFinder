@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="station_name_array">
+        <item> "GT Noida" </item>
+        <item> "Noida Sec1" </item>
+        <item> "Noida Sec2" </item>
+        <item> "Noida Sec3" </item>
+        <item> "Noida Sec4" </item>
+        <item> "Noida Sec5" </item>
+        <item> "Noida Sec6" </item>
+        <item> "Noida Sec7" </item>
+        <item> "Noida Sec8" </item>
+        <item> "Noida Sec9" </item>
+        <item> "Noida Sec42" </item>
+    </string-array>
+</resources>
